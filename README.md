@@ -6,7 +6,8 @@ Used the trusted forwarder approach and used the Biconomy trusted forwarded addr
 
 
 
-There are 4 Smart contracts:
+# There are 4 Smart contracts:
+
 TLSCWallet.sol - This is the main contract which acts as a smart contract wallet - Accepts the deposits and withdrawals enabled.
                  The Deposits has a vesting time period. The default was set to 60 seconds and a public function provided which 
                  can be used to change the vesting period by the admin in the future. This wallet accepts both ERC20 tokens and Ether.
@@ -20,7 +21,7 @@ Shib.sol   -     This is an ERC20 token to mint 5000 ShibaInu to be used for dpo
 
 Usdt.sol   -     This is an ERc20 token to mint 5000 USDT tokens.
 
-Smart Contracts are depolyed to Goerli network:
+# Smart Contracts are depolyed to Goerli network:
 
 TLSWCdeployed to: 0x4d0535753c84AE8817ddF26082D4a38A02aa5f78 by 0x280a788d59c49129F9c3B1AB6EA28B5a8C34d93F
 
