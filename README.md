@@ -35,7 +35,9 @@ Tether deployed to: 0x6cBe5f06a5321255c303179E20bb9c5225d0D948 by 0xE1c9138D9eD1
 
 Client is implemented using the ReactJs
 
-A 2 minute video showing the testing of the feature
+
+# A 2 minute video showing the testing of the feature
+
 
 
 
